@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=leejaehee0807's%20GitHub&fontSize=60&animation=fadeIn)
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -49,14 +51,8 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
+<br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@leejaehee">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:leejaehee5186@gmail.com">
-    <img
-      src="https://img.shields.io/badge/leejaehee5186@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejaehee0807&show_icons=true&theme=blueberry)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejaehee0807&layout=compact)
